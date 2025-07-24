@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+xgboost
+joblib
+pandas-ta
+scikit-learn
+MetaTrader5
+python-telegram-bot
+requests
